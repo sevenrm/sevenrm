@@ -2,7 +2,7 @@
 ## Python | React | C++ | C# | Machine Learning
 - 🔭 I’m currently working as freelanceer
 - 🌱 I’m currently learning AI technologies that can make businesses more effective
-- 📫 How to reach me: sevenrm.dev190@gmail.com
+- 📫 How to reach me: sevenrm.dev109@gmail.com
 
 ## Achievements 🏅
 - Custom Chatbot with knowledge
